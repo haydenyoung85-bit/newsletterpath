@@ -1,0 +1,11 @@
+.secrets/
+.secrets*
+*.secret
+*.token
+.kit_state.json
+*_state.json
+.env
+__pycache__/
+*.pyc
+shots/
+raw/

@@ -1,0 +1,212 @@
+{
+ "last_verified": "2026-10-24",
+ "programs": [
+  {
+   "id": "beehiiv-ad-network",
+   "name": "beehiiv Ad Network",
+   "kind": "Ad network (CPM/CPC)",
+   "host": "beehiiv",
+   "min_hard": 0,
+   "min_soft": null,
+   "min_text": "No minimum published. Needs any paid beehiiv plan and active sending.",
+   "share": "Not published (CPM or CPC set per campaign)",
+   "payout": "Paid on the 20th of the following month into the beehiiv Wallet; Stripe Express required; withdrawals free.",
+   "requires": "Paid beehiiv plan (Lite or higher)",
+   "signup": "https://www.beehiiv.com/pricing",
+   "sources": [
+    "https://www.beehiiv.com/support/article/17507491038231",
+    "https://www.beehiiv.com/pricing"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "kit-sponsorships",
+   "name": "Kit Newsletter Sponsorships",
+   "kind": "Sponsorship (CPC)",
+   "host": "Kit",
+   "min_hard": 0,
+   "min_soft": null,
+   "min_text": "No minimum stated. Only paid-plan users can express interest.",
+   "share": "Not published (pays per unique verified click)",
+   "payout": "Not published",
+   "requires": "Paid Kit plan",
+   "signup": "https://help.kit.com/en/articles/11645396-how-to-run-kit-newsletter-sponsorships",
+   "sources": [
+    "https://help.kit.com/en/articles/11645396-how-to-run-kit-newsletter-sponsorships",
+    "https://help.kit.com/en/articles/8532157-monetizing-your-emails-with-kit-newsletter-sponsorships"
+   ],
+   "last_verified": "2026-10-24",
+   "note": "The older ConvertKit Sponsor Network page (convertkit.com/sponsor) listed 10,000+ engaged subscribers and a 20% fee. It looks superseded by the CPC sponsorships; treat it as legacy.",
+   "affiliate_url": null
+  },
+  {
+   "id": "kit-paid-recs",
+   "name": "Kit Paid Recommendations",
+   "kind": "Paid recommendations (per subscriber)",
+   "host": "Kit + SparkLoop",
+   "min_hard": 0,
+   "min_soft": null,
+   "min_text": "No minimum stated. Join the Creator Network and connect SparkLoop; approval usually within 24 hours.",
+   "share": "You earn $1 to $4+ per confirmed subscriber; Kit keeps 23.5% (20% service fee + 3.5% transaction fee)",
+   "payout": "Subscribers confirm after 1 to 28 days; payout schedule not verified",
+   "requires": "Creator Network + SparkLoop connection",
+   "signup": "https://help.kit.com/en/articles/7973490-how-to-enable-paid-recommendations-in-the-creator-network",
+   "sources": [
+    "https://help.kit.com/en/articles/7973490-how-to-enable-paid-recommendations-in-the-creator-network",
+    "https://kit.com/pricing"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "sparkloop",
+   "name": "SparkLoop Partner Network",
+   "kind": "Paid recommendations (per subscriber)",
+   "host": "SparkLoop",
+   "min_hard": 0,
+   "min_soft": 500,
+   "min_text": "No defined minimum. SparkLoop suggests waiting until you have 500 to 1,000 subscribers.",
+   "share": "Brands pay $2 to $20 per new subscriber (SparkLoop's page); SparkLoop takes 20% + 3.5% of what you earn",
+   "payout": "Weekly (Thursdays) via Stripe Express in USD; $50 minimum net earnings; paid after SparkLoop is paid by the brand.",
+   "requires": "Free application (pre-approval in about 24 hours)",
+   "signup": "https://sparkloop.app/partner-network",
+   "sources": [
+    "https://sparkloop.app/partner-network",
+    "https://help.sparkloop.app/en/articles/6768858-payouts-and-tracking-your-earnings-in-the-partner-network"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "swapstack",
+   "name": "Swapstack",
+   "kind": "Sponsorship marketplace",
+   "host": "Swapstack",
+   "min_hard": null,
+   "min_soft": null,
+   "min_text": "Not published on the pricing page.",
+   "share": "Free for publishers. 10% of ad spend on managed or invite-only campaigns. Paid publisher tiers listed at $30/mo and $200/mo (5% on booked campaigns).",
+   "payout": "Not published",
+   "requires": "Account",
+   "signup": "https://www.swapstack.co/writers",
+   "sources": [
+    "https://www.swapstack.co/pricing"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "paved-ad-network",
+   "name": "Paved Ad Network",
+   "kind": "Ad network (pay per click)",
+   "host": "Paved",
+   "min_hard": 50000,
+   "min_soft": null,
+   "min_text": "At least 50,000 subscribers, an active Paved publisher profile and a strong sending reputation.",
+   "share": "Paved keeps 50% of performance-based earnings",
+   "payout": "Monthly, net-60, once you reach $1,000. Bank transfer, Wise or PayPal.",
+   "requires": "50,000+ subscribers",
+   "signup": "https://www.paved.com/publishers",
+   "sources": [
+    "https://www.paved.com/help/articles/8124977-ad-network-getting-started-for-publishers",
+    "https://www.paved.com/help/articles/8124389-paved-s-pricing-for-publishers",
+    "https://www.paved.com/help/articles/8135146-ad-network-payouts-for-publishers"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "paved-marketplace",
+   "name": "Paved Marketplace",
+   "kind": "Sponsorship marketplace",
+   "host": "Paved",
+   "min_hard": null,
+   "min_soft": null,
+   "min_text": "Not published in the articles checked.",
+   "share": "Paved keeps 30% of bookings. Paved Booker is free apart from Stripe fees.",
+   "payout": "Not published (the net-60 / $1,000 terms are documented for the Ad Network only)",
+   "requires": "Publisher profile",
+   "signup": "https://www.paved.com/publishers",
+   "sources": [
+    "https://www.paved.com/help/articles/8124389-paved-s-pricing-for-publishers"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "passionfroot",
+   "name": "Passionfroot",
+   "kind": "Sponsorship marketplace (B2B)",
+   "host": "Passionfroot",
+   "min_hard": 0,
+   "min_soft": null,
+   "min_text": "No minimum published. Profiles are vetted for B2B fit; \"Limited\" profiles stay off the marketplace but can still take direct requests.",
+   "share": "Free to join. 15% fee on deals from its network; deals you source yourself carry a 5% fee charged to the sponsor.",
+   "payout": "Not published",
+   "requires": "Vetting by Passionfroot (B2B-focused)",
+   "signup": "https://help.passionfroot.me/en/articles/11828931-the-creator-vetting-process",
+   "sources": [
+    "https://help.passionfroot.me/en/articles/11552638-pricing",
+    "https://help.passionfroot.me/en/articles/11828931-the-creator-vetting-process"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "letterhead",
+   "name": "Letterhead",
+   "kind": "Publisher platform with ad tools",
+   "host": "Letterhead",
+   "min_hard": null,
+   "min_soft": null,
+   "min_text": "Not published.",
+   "share": "Not published. Programmatic fill is quoted at $0.10 to $1.50 CPM on Letterhead's playbook page.",
+   "payout": "Not published",
+   "requires": "Letterhead account (pricing not published)",
+   "signup": "https://www.tryletterhead.com/lp/monetize-your-newsletter.html",
+   "sources": [
+    "https://www.tryletterhead.com/lp/monetize-your-newsletter.html"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "emailnewsletter-ad",
+   "name": "EmailNewsletter.ad",
+   "kind": "Offer marketplace (click / conversion)",
+   "host": "EmailNewsletter.ad",
+   "min_hard": 0,
+   "min_soft": 25000,
+   "min_text": "Apply at any size; built primarily for 25,000+ subscribers. Every newsletter is reviewed.",
+   "share": "You earn a share of advertiser billing; rates are shown in the dashboard and not published",
+   "payout": "Monthly. Stripe payouts once the balance reaches $100.",
+   "requires": "Review of your newsletter and sends",
+   "signup": "https://emailnewsletter.ad/publishers",
+   "sources": [
+    "https://emailnewsletter.ad/publishers",
+    "https://emailnewsletter.ad/terms"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  },
+  {
+   "id": "sponsy",
+   "name": "Sponsy",
+   "kind": "Sponsorship management tool",
+   "host": "Sponsy",
+   "min_hard": 0,
+   "min_soft": null,
+   "min_text": "No minimum. It manages your own sponsor deals; it does not supply advertisers.",
+   "share": "No revenue share. Starter $0/mo with 5 free booked slots, then $5 per booked slot. Pro from $49/mo for up to 10 slots a month.",
+   "payout": "Not applicable (you invoice sponsors yourself)",
+   "requires": "Free account",
+   "signup": "https://getsponsy.com/pricing",
+   "sources": [
+    "https://getsponsy.com/pricing"
+   ],
+   "last_verified": "2026-10-24",
+   "affiliate_url": null
+  }
+ ]
+}

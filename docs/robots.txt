@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haydenyoung85-bit.github.io/newsletterpath/sitemap.xml

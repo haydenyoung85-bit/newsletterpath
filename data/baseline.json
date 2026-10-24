@@ -1,0 +1,398 @@
+{
+ "https://www.beehiiv.com/pricing": {
+  "item": "beehiiv",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "$39",
+   "$49",
+   "$95",
+   "0%",
+   "1,000 subscribers",
+   "100,000 subscribers",
+   "2,500 subscribers",
+   "250,000 subscribers"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://kit.com/pricing": {
+  "item": "Kit",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "$33",
+   "$355",
+   "$390",
+   "$50",
+   "$593",
+   "$66",
+   "$78",
+   "$99",
+   "0.6%",
+   "10,000 subscribers",
+   "17%",
+   "23.5%",
+   "25%",
+   "3.5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost": {
+  "item": "Substack",
+  "status": "BLOCKED",
+  "tokens": null,
+  "checked": "2026-10-24"
+ },
+ "https://ghost.org/pricing/": {
+  "item": "Ghost(Pro)",
+  "status": "OK",
+  "tokens": [
+   "$50",
+   "0%",
+   "1,000 members",
+   "10,000 members",
+   "99.9%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://ghost.org/help/are-there-really-no-transaction-fees/": {
+  "item": "Ghost(Pro)",
+  "status": "OK",
+  "tokens": [
+   "0%",
+   "2.9%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.mailerlite.com/pricing": {
+  "item": "MailerLite",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "$10.80",
+   "$12",
+   "$129.60",
+   "$22.50",
+   "$25",
+   "$270.00",
+   "10%",
+   "15%",
+   "250 subscribers",
+   "50%",
+   "500 subscribers",
+   "800%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.mailerlite.com/paid-newsletter-platform": {
+  "item": "MailerLite",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "$10",
+   "$1000",
+   "$10000",
+   "$110",
+   "$124",
+   "$30",
+   "$31",
+   "$50",
+   "$5000",
+   "$81",
+   "0%",
+   "10%",
+   "100%",
+   "92%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.mailerlite.com/help/how-to-sell-digital-products-through-mailerlite-using-stripe": {
+  "item": "MailerLite",
+  "status": "OK",
+  "tokens": [
+   "$0.50"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://buttondown.com/pricing": {
+  "item": "Buttondown",
+  "status": "OK",
+  "tokens": [
+   "$29",
+   "$79",
+   "$9",
+   "100 subscribers",
+   "50%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://docs.buttondown.com/paid-subscriptions": {
+  "item": "Buttondown",
+  "status": "OK",
+  "tokens": [],
+  "checked": "2026-10-24"
+ },
+ "https://buttondown.com/features/integrations/stripe": {
+  "item": "Buttondown",
+  "status": "OK",
+  "tokens": [],
+  "checked": "2026-10-24"
+ },
+ "https://mailchimp.com/pricing/marketing/": {
+  "item": "Mailchimp",
+  "status": "OK",
+  "tokens": [
+   "$ 297",
+   "$13",
+   "$20",
+   "$297.50",
+   "$299",
+   "$350",
+   "10,000+ contacts",
+   "141%",
+   "15%",
+   "250 contacts",
+   "250,000 contacts",
+   "266%",
+   "5,000+ contacts",
+   "58%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://flodesk.com/pricing": {
+  "item": "Flodesk",
+  "status": "OK",
+  "tokens": [
+   "$ 0",
+   "25,000 subscribers",
+   "255,000 subscribers"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://help.flodesk.com/en/articles/4423361": {
+  "item": "Flodesk",
+  "status": "OK",
+  "tokens": [
+   "$0.30",
+   "3%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.aweber.com/pricing.htm": {
+  "item": "AWeber",
+  "status": "OK",
+  "tokens": [
+   "$ 12.50",
+   "$ 20.00",
+   "$ 899",
+   "$150",
+   "$240",
+   "$599",
+   "$79",
+   "100,000+ subscribers",
+   "2,500 subscribers",
+   "33%",
+   "65,000 subscribers",
+   "87%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.aweber.com/aweber-for-ecommerce.htm": {
+  "item": "AWeber",
+  "status": "OK",
+  "tokens": [
+   "$599",
+   "$79",
+   "0.6%",
+   "10%",
+   "2.9%",
+   "8%",
+   "87%",
+   "96%",
+   "96.5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://emailoctopus.com/pricing": {
+  "item": "EmailOctopus",
+  "status": "OK",
+  "tokens": [
+   "$12",
+   "$9",
+   "10%",
+   "2,500 subscribers",
+   "20%",
+   "500,000 subscribers"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.getresponse.com/pricing": {
+  "item": "GetResponse",
+  "status": "OK",
+  "tokens": [
+   "$127",
+   "$13",
+   "$149",
+   "$15.58",
+   "$19",
+   "$41",
+   "$48.38",
+   "$56.58",
+   "$59",
+   "$69",
+   "18%",
+   "50%",
+   "72%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.getresponse.com/help/what-are-premium-newsletters-and-how-to-create-them.html": {
+  "item": "GetResponse",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "100%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.beehiiv.com/support/article/17507491038231": {
+  "item": "beehiiv Ad Network",
+  "status": "OK",
+  "tokens": [],
+  "checked": "2026-10-24"
+ },
+ "https://help.kit.com/en/articles/11645396-how-to-run-kit-newsletter-sponsorships": {
+  "item": "Kit Newsletter Sponsorships",
+  "status": "OK",
+  "tokens": [],
+  "checked": "2026-10-24"
+ },
+ "https://help.kit.com/en/articles/8532157-monetizing-your-emails-with-kit-newsletter-sponsorships": {
+  "item": "Kit Newsletter Sponsorships",
+  "status": "OK",
+  "tokens": [
+   "23.5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://help.kit.com/en/articles/7973490-how-to-enable-paid-recommendations-in-the-creator-network": {
+  "item": "Kit Paid Recommendations",
+  "status": "OK",
+  "tokens": [
+   "$1",
+   "$4",
+   "20%",
+   "3.5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://sparkloop.app/partner-network": {
+  "item": "SparkLoop Partner Network",
+  "status": "OK",
+  "tokens": [
+   "$2",
+   "1000 subscribers",
+   "20%",
+   "3.5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://help.sparkloop.app/en/articles/6768858-payouts-and-tracking-your-earnings-in-the-partner-network": {
+  "item": "SparkLoop Partner Network",
+  "status": "OK",
+  "tokens": [
+   "$50"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.swapstack.co/pricing": {
+  "item": "Swapstack",
+  "status": "OK",
+  "tokens": [
+   "$50",
+   "10%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://www.paved.com/help/articles/8124977-ad-network-getting-started-for-publishers": {
+  "item": "Paved Ad Network",
+  "status": "BLOCKED",
+  "tokens": null,
+  "checked": "2026-10-24"
+ },
+ "https://www.paved.com/help/articles/8124389-paved-s-pricing-for-publishers": {
+  "item": "Paved Ad Network",
+  "status": "BLOCKED",
+  "tokens": null,
+  "checked": "2026-10-24"
+ },
+ "https://www.paved.com/help/articles/8135146-ad-network-payouts-for-publishers": {
+  "item": "Paved Ad Network",
+  "status": "BLOCKED",
+  "tokens": null,
+  "checked": "2026-10-24"
+ },
+ "https://help.passionfroot.me/en/articles/11552638-pricing": {
+  "item": "Passionfroot",
+  "status": "OK",
+  "tokens": [
+   "$1,000,",
+   "$850",
+   "15%",
+   "2.9%",
+   "5%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://help.passionfroot.me/en/articles/11828931-the-creator-vetting-process": {
+  "item": "Passionfroot",
+  "status": "OK",
+  "tokens": [],
+  "checked": "2026-10-24"
+ },
+ "https://www.tryletterhead.com/lp/monetize-your-newsletter.html": {
+  "item": "Letterhead",
+  "status": "OK",
+  "tokens": [
+   "$0.10",
+   "$1.50",
+   "$20",
+   "$5",
+   "$50",
+   "22%"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://emailnewsletter.ad/publishers": {
+  "item": "EmailNewsletter.ad",
+  "status": "OK",
+  "tokens": [
+   "25,000 subscribers",
+   "25,000+ subscribers"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://emailnewsletter.ad/terms": {
+  "item": "EmailNewsletter.ad",
+  "status": "OK",
+  "tokens": [
+   "$100"
+  ],
+  "checked": "2026-10-24"
+ },
+ "https://getsponsy.com/pricing": {
+  "item": "Sponsy",
+  "status": "OK",
+  "tokens": [
+   "$0",
+   "$1,000",
+   "$45",
+   "$48.000",
+   "$49",
+   "$5",
+   "$5,",
+   "$599"
+  ],
+  "checked": "2026-10-24"
+ }
+}
